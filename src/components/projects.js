@@ -20,25 +20,8 @@ class Projects extends Component {
                             Childrens Shape matching game. Developed in Swift using MVC archetecture 
                         </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>App Store</Button>
-                            <Button colored> YT Demo</Button>
-                        </CardActions>
-                        <CardMenu style={{color: '#fff'}}>
-                            <IconButton name = "share"/>
-                        </CardMenu>
-                    </Card>
-
-
-                    {/* //Coming Soon! */}
-                    <Card shadow = {5} style = {{minwidth: '450', margin: 'auto'}}>
-                        <CardTitle style = {{color: 'black', height: '176px', background: 'url(https://developer.apple.com/swift/images/swift-og.png) center / cover'}}>Coming Soon!</CardTitle>
-                        <CardText> 
-                            Coming Soon!
-                        </CardText>
-                        <CardActions border>
-                            {/* <Button colored>GitHub</Button>
-                            <Button colored>App Store</Button>
+                            <Button colored target="_blank" href="https://github.com/JamisonBunge/Shape-Matching-App">GitHub</Button>
+                            {/* <Button colored>App Store</Button>
                             <Button colored> YT Demo</Button> */}
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
@@ -62,8 +45,8 @@ class Projects extends Component {
                             API Backend using Flask 
                         </CardText>
                         <CardActions border>
-                            {/* <Button colored>GitHub</Button>
-                            <Button colored>App Store</Button>
+                            <Button colored target="_blank" href="https://github.com/JamisonBunge/BackendAPIForRestaurants">GitHub</Button>
+                            {/* <Button colored>App Store</Button>
                             <Button colored> YT Demo</Button> */}
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
@@ -79,8 +62,8 @@ class Projects extends Component {
                              This website
                          </CardText>
                          <CardActions border>
-                             {/* <Button colored>GitHub</Button>
-                             <Button colored>App Store</Button>
+                             <Button colored target="_blank" href="https://github.com/JamisonBunge/Personal-Website">GitHub</Button>
+                             {/* <Button colored >App Store</Button>
                              <Button colored> YT Demo</Button> */}
                          </CardActions>
                          <CardMenu style={{color: '#fff'}}>
@@ -106,9 +89,9 @@ class Projects extends Component {
                         Cacheing Proxy Server
                         </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>App Store</Button>
-                            <Button colored> YT Demo</Button>
+                            <Button colored target="_blank" href="https://github.com/JamisonBunge/Caching-Proxy-Server-">GitHub</Button>
+                            {/* <Button colored>App Store</Button>
+                            <Button colored> YT Demo</Button> */}
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name = "share"/>
@@ -122,9 +105,9 @@ class Projects extends Component {
                             File Compression Command Line Tool
                         </CardText>
                         <CardActions border>
-                            <Button colored>GitHub</Button>
-                            <Button colored>App Store</Button>
-                            <Button colored> YT Demo</Button>
+                            <Button colored target="_blank" href="https://github.com/JamisonBunge/textCompressionProject">GitHub</Button>
+                            {/* <Button colored>App Store</Button>
+                            <Button colored> YT Demo</Button> */}
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name = "share"/>

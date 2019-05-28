@@ -14,9 +14,11 @@ class Landing extends Component {
                         <div className = "banner-text">
                             <h1>Jamison Bunge</h1>
                             <hr/> 
-                            <p>My Skills | Swift | NodeJS | React | C++ | Python</p>
+                            <p>Student at Columbia University | CS & EE</p><br/>
+                            <p>C++ | Python | Swift | Javascript | React </p>
+
                                 <div className = "social-links ">
-                                    <a rel="noopener noreferrer" href = "https://github.com/jamisonbunge" target = "_blank">
+                                    <a rel="noopener noreferrer" href = "https://www.linkedin.com/in/jamison-bunge" target = "_blank">
                                         <i className = "fa fa-linkedin-square"  aria-hidden = "true"/>
                                     </a>
 
